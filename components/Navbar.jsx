@@ -55,7 +55,9 @@ const Navbar = () => {
     >
       <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16'>
         <Link href='/'>
-          <h3 className='text-[#5651e5] bg-gradient-to-r from-[#5651e5] via-[#5651e5] to-[#e60b0b] bg-clip-text text-transparent' style={{fontSize: '1.4em'}} onClick={() => window.scrollTo({top: 0, behavior: 'smooth'})}>{'< Sarthak / Rawat >'}</h3>
+          <button>
+            <h3 className='text-[#5651e5] bg-gradient-to-r from-[#5651e5] via-[#5651e5] to-[#e60b0b] bg-clip-text text-transparent' style={{fontSize: '1.4em'}} onClick={() => window.scrollTo({top: 0, behavior: 'smooth'})}>{'< Sarthak / Rawat >'}</h3>
+          </button>
         </Link>
         <div>
           <ul style={{ color: `${linkColor}` }} className='hidden md:flex'>
