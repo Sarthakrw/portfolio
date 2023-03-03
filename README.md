@@ -1,5 +1,9 @@
 ## Getting Started
 
+#Method 1
+Directly visit : 
+
+#Method 2
 First, run the development server:
 
 ```bash
