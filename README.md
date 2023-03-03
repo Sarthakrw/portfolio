@@ -1,5 +1,3 @@
-## Getting Started
-
 ## Method 1
 Directly Visit : 
 
