@@ -1,6 +1,6 @@
 ## Method 1
 
-Directly Visit :
+Directly Visit : https://portfolio-mu-gules-84.vercel.app/
 
 ## Method 2
 
