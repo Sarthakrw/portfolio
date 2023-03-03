@@ -31,7 +31,7 @@ const property = () => {
           </p>
           <p>
           By utilising the OMDb API, Movie Finder allows users to explore a vast and ever-expanding catalog of films. With information about which year the movie was released , users can quickly find the perfect movie to fit their mood and preferences.
-          With a sleek and fully responsive design, Movie Finder makes it easy to search and browse for movies from anywhere, at any time. Whether you're at home on your computer or on the go with your mobile device, you'll always have access to the latest and greatest films.
+          With a sleek and fully responsive design, Movie Finder makes it easy to search and browse for movies from anywhere, at any time. Whether you&apos;re at home on your computer or on the go with your mobile device, you&apos;ll always have access to the latest and greatest films.
           </p>
           <a
             href='https://github.com/Sarthakrw/movie-finder'
