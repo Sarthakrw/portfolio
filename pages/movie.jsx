@@ -41,7 +41,7 @@ const property = () => {
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://google.com'
+            href='https://movie-finder-pink.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >
