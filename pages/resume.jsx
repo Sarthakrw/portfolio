@@ -67,17 +67,19 @@ const resume = () => {
             <span className='px-2'>|</span>Next js
             <span className='px-2'>|</span>Tailwind
           </p>
+          {/*
           <p className='py-2'>
             <span className='font-bold'>Amazon Web Services</span>
             <span className='px-2'>|</span>Amazon Web Services Cloud
             Practitioner
           </p>
+          */}
         </div>
-
+        {/*
         <h5 className='text-center underline text-[18px] py-4'>
           Professional Experience
         </h5>
-        {/* Experience */}
+        //Experience
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
@@ -97,7 +99,7 @@ const resume = () => {
         </div>
 
 
-        {/* Personal Experience */}
+        //Personal Experience
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
@@ -116,12 +118,11 @@ const resume = () => {
           </ul>
         </div>
 
-        {/*  */}
         <h5 className='text-center underline text-[18px] py-4'>
           Other Professional Experience
         </h5>
       
-        {/* Experience */}
+        //Experience
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold'>Location</span>
@@ -134,6 +135,7 @@ const resume = () => {
             </li>
           </ul>
         </div>
+        */}
       </div>
     </>
   );
