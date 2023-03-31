@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import MovieFinder from '../public/assets/projects/moviefinder.png';
+import MLVisualizer from '../public/assets/projects/ml_visualizer.png';
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -13,6 +14,12 @@ const Projects = () => {
         </p>
         <h2 className='py-4'>What I&apos;ve Built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
+        <ProjectItem
+            title='Machine Learning Algorithm Visualizer'
+            backgroundImg={MLVisualizer}
+            projectUrl='/mlvisualizer'
+            tech='Python&nbsp;|&nbsp;Numpy&nbsp;|&nbsp;Matplot&nbsp;|&nbsp;Pandas&nbsp;|&nbsp;Streamlit'
+          />
           <ProjectItem
             title='Movie Finder'
             backgroundImg={MovieFinder}
