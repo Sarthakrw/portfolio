@@ -20,7 +20,7 @@ const resume = () => {
           <h2 className='text-center'>Sarthak Rawat</h2>
           <div className='flex'>
             <a
-              href='https://www.linkedin.com/in/sarthak-rawat-81850a25b/'
+              href='https://www.linkedin.com/in/sarthakrw/'
               target='_blank'
               rel='noreferrer'
             >
@@ -38,22 +38,25 @@ const resume = () => {
         <div className='text-center py-4 text-xl font-bold uppercase tracking-wider'>
           <div className='hidden sm:block'>
             <p>
-              Creativity <span className='px-1'>|</span> Machine Learning Engineer {' '}
-              <span className='px-1'>|</span> Efficient Problem Solving
+               <span className='px-1'>|</span> Contact For Details {' '}
+              <span className='px-1'>|</span> 
             </p>
           </div>
           <div className='block sm:hidden'>
             <p>Creativity</p>
             <p className='py-2'>Machine Learning Engineer</p>
-            <p>Efficient Problem Solving</p>
+            <p>Efficient </p>
           </div>
         </div>
         <p>
-        Motivated and innovative B. Tech CSE (Specialization in Artificial Intelligenceand Machine Learning), with a strong desire to pursue a career in AI&ML and data science. Proficient in various programming languages and frameworks used in machine learning, and experienced in statistical analysis and data visualization techniques. Skilled in team collaboration, critical thinking, and complex problem-solving, with a proven track record of optimizing efficiencies and driving results. Adept at adapting to fast-paced and challenging environments, with solid interpersonal abilities and a passion for learning and growth.
+            {/*Content*/}
         </p>
 
         {/* Skills */}
+
+        
         <div className='text-center py-4'>
+          {/*
           <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
           <p className='py-2'>
             <span className='font-bold'>Technical Skills</span>
@@ -66,7 +69,7 @@ const resume = () => {
             <span className='px-2'>|</span>React
             <span className='px-2'>|</span>Next js
             <span className='px-2'>|</span>Tailwind
-          </p>
+          </p>*/}
           {/*
           <p className='py-2'>
             <span className='font-bold'>Amazon Web Services</span>

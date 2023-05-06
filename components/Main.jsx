@@ -23,7 +23,7 @@ const Main = () => {
           </h1>
           <h1 className='py-2 text-gray-700'>A Machine Learning Engineer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-            I Like to Train AI Models on Large Datasets {'!'}
+            I Like to Train Machine Learning Models on Large Datasets {'!'}
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a

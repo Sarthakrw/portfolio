@@ -13,13 +13,13 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-          As a highly motivated and detail-oriented individual, my passion for technology and innovation has led me to pursue a career in machine learning and AI. I bring a strong foundation in computer science to any project, and I am skilled in multiple programming languages, including Python, C, and C++. I am able to quickly and efficiently develop solutions to complex problems, and my experience includes conducting research on various machine learning models and writing a review paper on their applications, showcasing my ability to stay current with the latest industry trends.
+          As  a Deep Learning and Machine Learning Engineer, I am passionate about leveraging the latest advancements in AI and ML to solve real-world problems. With a strong foundation in computer science and expertise in programming languages such as Python and C++, I can quickly and efficiently develop innovative solutions to complex challenges. 
           </p>
           <p className='py-2 text-gray-600'>
-          In addition to my work in machine learning, I have also developed an interest in front-end web development as a hobby. I specialize in building mobile-responsive UI applications that connect with APIs and other backend technologies. I believe that being a great developer is not about using one specific language, but about choosing the best tool for the job. Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, I am a quick learner and can pick up new tech stacks as needed.
-
-          Outside of work, I enjoy listening to music, drawing, and playing football.
-
+          My knowledge of deep learning frameworks such as Tensorflow and Keras has allowed me to develop and deploy solutions for complex machine learning problems. Additionally, I have published research on the applications of blockchain technology in a peer-reviewed journal, highlighting my ability to stay current with the latest industry trends and contribute to the field of technology.
+          </p>
+          <p className='py-2 text-gray-600'>
+          In my free time, I am deeply intrigued by the concept of Artificial General Intelligence (AGI) and its potential impact on the future of humanity. I believe that the field of AGI has the potential to revolutionise the way we live our lives, and I hope to be a part of this exciting journey towards shaping the future.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
