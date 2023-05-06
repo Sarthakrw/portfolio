@@ -20,7 +20,7 @@ const Skills = () => {
         <div className='grid grid-cols-2 lg:grid-cols-4 gap-8'>
 
 
-        <a href='https://coursera.org/verify/8TJ4YKPFZK5J' target='_blank'>
+        <a href='https://coursera.org/verify/8TJ4YKPFZK5J' target='_blank' rel='noreferrer'>
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
               <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                 <div className='m-auto'>
@@ -33,7 +33,7 @@ const Skills = () => {
             </div>
         </a>
 
-        <a href='https://www.kaggle.com/learn/certification/sarthakrw/python' target='_blank'>
+        <a href='https://www.kaggle.com/learn/certification/sarthakrw/python' target='_blank' rel='noreferrer'>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
@@ -46,7 +46,7 @@ const Skills = () => {
           </div>
         </a>
 
-        <a href='https://www.linkedin.com/learning/certificates/247ea8307b7973122ea2122ec386a26daec262efc81724a4eda1c03dbdbc4c62' target='_blank'>
+        <a href='https://www.linkedin.com/learning/certificates/247ea8307b7973122ea2122ec386a26daec262efc81724a4eda1c03dbdbc4c62' target='_blank' rel='noreferrer'>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
@@ -59,7 +59,7 @@ const Skills = () => {
           </div>
         </a>  
 
-        <a target='_blank'>
+        <a target='_blank' rel='noreferrer'>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
@@ -94,7 +94,7 @@ const Skills = () => {
             </div>
         </div>
         
-        <a target='_blank'>
+        <a target='_blank' rel='noreferrer'>
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
@@ -107,7 +107,7 @@ const Skills = () => {
           </div>
         </a>
 
-          <a href='https://github.com/Sarthakrw' target='_blank'>
+          <a href='https://github.com/Sarthakrw' target='_blank' rel='noreferrer'>
             <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
               <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                 <div className='m-auto'>
